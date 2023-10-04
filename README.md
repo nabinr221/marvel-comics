@@ -1,8 +1,22 @@
-# React + Vite
+# Marvel Comics Project with marvel api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Run Project
+Please follow this steps properly:
 
-Currently, two official plugins are available:
+```
+ npm install or npm i
+ ```
+```
+ npm run dev
+ ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Lists
+
+### Features
+
+1. Fetching data from marvel api
+2. Display data in table
+3. Display character details
+4. show data in barchart
+3. search data from marvel api on the basis of character name
