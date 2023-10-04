@@ -9,12 +9,7 @@ Please follow this steps properly:
 ```
  npm run dev
  ```
-
-
-## Lists
-
 ### Features
-
 1. Fetching data from marvel api
 2. Display data in table
 3. Display character details
